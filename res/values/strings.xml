@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attitude and Distance Indicator</string>
+    <string name="action_settings">Height of device</string>
+    <string name="height_170">170 cm</string>
+    <string name="height_150">150 cm</string>
+    <string name="height_130">130 cm</string>
+    <string name="action_help">Help</string>
+    <string name="action_help_text"><Data><![CDATA[
+        <b><u>Attitude and Distance Indicator</u></b>
+        <br><br>
+        This app displays the orientation of your Android device in space and is able to measure the distance to
+        a location around you.
+        <br><br>
+        <b>Attitude Indicator</b><br>
+        The artificial horizon represented on the screen by the white horizontal lines indicates the current orientation of your Android device in space.
+        The number above the artificial horizon represents the compass. It indicates the azimuth value i.e. the horizontal angle to North. 0° represents North, while 180° represents South.
+        <br><br>
+        <b>Distance measurement</b><br>
+        For distance measurement aim with the red line at the location to which you want to measure the distance.
+        To get an accurate distance measurement, the point at which you are aiming should be on the same elevation level as the ground on which you are standing.
+        The distance value is displayed at the bottom of the screen.<br><br>
+        <b>Advice: </b>In order to make the distance measurement more accurate you should set the height at which you are holding your Android 
+        device in the settings menu on the upper right of the screen. 
+        ]]></Data></string>
+
+</resources>
